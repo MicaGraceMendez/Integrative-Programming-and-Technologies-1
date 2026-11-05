@@ -1,7 +1,7 @@
 <?php
 $student = [
-    "name"   => "Jeff",
-    "age"    => 20,
+    "name"   => "Mica",
+    "age"    => 21,
     "course" => "IT"
 ];
 
